@@ -1,0 +1,3 @@
+The maximum size limit in github is around 25MB . So the entire datset could not be uploaded .
+However this entire dataset had been used to train and test the model.
+Regards!!

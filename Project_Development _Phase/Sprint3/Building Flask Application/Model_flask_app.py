@@ -28,6 +28,7 @@ def stopping():
 @app.route('/video')
 def video():
     return Response(generate_frames(),mimetype='multipart/x-mixed-replace; boundary=frame')
+#Team-id-IBM-Project-2475-1658472446 
 
 
 if __name__ == '__main__':
